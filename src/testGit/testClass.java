@@ -7,6 +7,7 @@ public class testClass {
       System.out.println("hello world");
       int i = 7;
       System.out.println("checking number greater than 20");
+      //actual check
       if(i > 20)
     	  System.out.println("greater than 20");
       else
