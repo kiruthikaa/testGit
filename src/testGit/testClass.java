@@ -3,8 +3,8 @@ package testGit;
 public class testClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
       System.out.println("hello world");
+      //demo pgm
       int i = 7;
       System.out.println("checking number greater than 20");
       //actual check
@@ -15,6 +15,9 @@ public class testClass {
       //poc changes
       for(;i<10;i++)
     	  System.out.println("i "+i);
+      
+      //master branch changes
+      System.out.println("master branch");
 	}
 
 }
