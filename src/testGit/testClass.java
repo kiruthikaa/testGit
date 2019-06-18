@@ -6,6 +6,7 @@ public class testClass {
 		// TODO Auto-generated method stub
       System.out.println("hello world");
       int i = 7;
+      System.out.println("checking number greater than 20");
       if(i > 20)
     	  System.out.println("greater than 20");
       else
