@@ -12,6 +12,9 @@ public class testClass {
     	  System.out.println("greater than 20");
       else
     	  System.out.println("lesser than 20");
+      //poc changes
+      for(;i<10;i++)
+    	  System.out.println("i "+i);
 	}
 
 }
